@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>638302043909-p7hqfdgss73789e6vbvr1s3t4v4pd75h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.638302043909-p7hqfdgss73789e6vbvr1s3t4v4pd75h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCG_HLwqwfL1dATDQ-URzqJrSErRitLXPM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>638302043909</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.krypticstudios.KS-Mechanic</string>
+	<key>PROJECT_ID</key>
+	<string>ksmechanic-a8394</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ksmechanic-a8394.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:638302043909:ios:b6cdc961081b2f90</string>
+	<key>DATABASE_URL</key>
+	<string>https://ksmechanic-a8394.firebaseio.com</string>
+</dict>
+</plist>
